@@ -1,0 +1,170 @@
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+button {
+    padding-top: 8px; 
+    padding-bottom: 8px; 
+    width: 200px;
+    height: 60px;
+    /* margin: 10px; */
+    border-radius: 5px;
+   
+}
+
+body {
+    background-color: rgb(241, 239, 239);
+}
+
+.dark {
+font-family: "Roboto", 'Times New Roman', Times, serif, sans-serif;
+     font-size: 14px; 
+background-color: black;
+color: white;
+top: 67px;
+left: 60px;
+}
+
+.light {
+    font-family: "Roboto", 'Times New Roman', Times, serif, sans-serif;
+    font-size: 14px; 
+    background-color: white;
+    color: black;
+    top: 67px;
+    left: 3000px;
+    }
+
+.leftcard {
+    float: left;
+    width: 14%;
+    height: 436px;
+    margin-left: 10px;
+    margin-top: 40px;
+    background-color: white;
+    /* border: none; */
+    .donut {
+        width: 100%;
+        height: 270px;
+        background-color: black;
+        margin: 0px;
+    }
+    
+.hole {
+    max-width: 25%;
+    height: 25%;
+    background-color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    top: 37.5%;
+    bottom: 37.5%;
+    position: relative;
+    border-radius: 5px;
+}
+.textbox {
+   
+    font-family: "Roboto", 'Times New Roman', Times, serif, sans-serif;
+    height: 166px;
+    width: 270px;
+    position: relative;
+    /* background-color: violet; */
+    border-width: 0px;
+    margin: 0px;
+    h1{
+        font-size: 20px;
+        font-weight: 400;
+        margin-left: 3%;
+        margin-top: 20px;
+        
+    }
+    h4{
+        /* width: 50%; */
+        font-size: 14px;
+        font-weight: 500;
+        margin-top: 35%;
+        margin-left: 3%;  
+    }
+}
+}
+
+
+
+
+
+.midcard {
+    float: left;
+    width: 18%;
+    height: 420px;
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 40px;
+    position: relative;
+
+    .circle{
+        width: 54px;
+        height: 54px;
+        margin: auto;
+        top: 29px;
+        right: 0;
+        left: 0;
+        /* margin-left: 54px;
+        margin-top: 29px; */
+        border-radius: 100px;
+        background: #000000;
+        position: absolute;
+        }
+    
+        h2{
+        font-family: "Roboto", 'Times New Roman', Times, serif, sans-serif;
+        margin-top: 94px; 
+        margin-bottom: 50px;
+        font-size: 18px;  
+         
+        }
+        ul{
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            li{
+                margin-top: 25px;
+            }
+          
+        }
+        button{
+            margin-top: 60px;
+        }
+        
+}
+
+
+.rightcard {
+    float: left;
+    width: 26%;
+    height: 502px;
+    margin-top: 40PX; 
+ }
+
+
+.box {
+   
+        width: 100%;
+        height: 370px;
+        background-color: black;
+        margin: 0px;
+}
+
+.card-3-label {
+    font-family: "Roboto", 'Times New Roman', Times, serif, sans-serif;
+    font-size: 16px;
+
+    h3 {
+        font-weight: 450;
+    }
+    h4 {
+        font-size: 14px;
+        font-weight: 500;
+    }
+}
